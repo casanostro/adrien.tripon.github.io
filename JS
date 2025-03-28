@@ -1,0 +1,20 @@
+document.addEventListener("DOMContentLoaded", function () {
+    const sections = document.querySelectorAll(".section");
+ 
+    const revealSection = () => {
+        sections.forEach((section) => {
+            const sectionTop = section.getBoundingClientRect().top;
+            if (sectionTop < window.innerHeight * 0.85) {
+                section.classList.add("show");
+            }
+        });
+    };
+ 
+    window.addEventListener("scroll", revealSection);
+    revealSection();
+ 
+    // GSAP Animation
+    gsap.from("header", { duration: 1, y: -50, opacity: 0 });
+    gsap.from(".section", { duration: 1, x: -50, opacity: 0, stagger: 0.2 });
+});
+ 
