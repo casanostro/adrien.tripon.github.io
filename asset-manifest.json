@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adrien.tripon.github.io/static/css/main.4efb7c1e.css",
-    "main.js": "/adrien.tripon.github.io/static/js/main.d77ce571.js",
-    "static/js/453.90363d7f.chunk.js": "/adrien.tripon.github.io/static/js/453.90363d7f.chunk.js",
+    "main.css": "/adrien.tripon.github.io/static/css/main.8125492c.css",
+    "main.js": "/adrien.tripon.github.io/static/js/main.08eb5a05.js",
+    "static/js/453.7fa0d87d.chunk.js": "/adrien.tripon.github.io/static/js/453.7fa0d87d.chunk.js",
     "index.html": "/adrien.tripon.github.io/index.html",
-    "main.4efb7c1e.css.map": "/adrien.tripon.github.io/static/css/main.4efb7c1e.css.map",
-    "main.d77ce571.js.map": "/adrien.tripon.github.io/static/js/main.d77ce571.js.map",
-    "453.90363d7f.chunk.js.map": "/adrien.tripon.github.io/static/js/453.90363d7f.chunk.js.map"
+    "main.8125492c.css.map": "/adrien.tripon.github.io/static/css/main.8125492c.css.map",
+    "main.08eb5a05.js.map": "/adrien.tripon.github.io/static/js/main.08eb5a05.js.map",
+    "453.7fa0d87d.chunk.js.map": "/adrien.tripon.github.io/static/js/453.7fa0d87d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4efb7c1e.css",
-    "static/js/main.d77ce571.js"
+    "static/css/main.8125492c.css",
+    "static/js/main.08eb5a05.js"
   ]
 }
